@@ -1,0 +1,14 @@
+.link-footer:hover{
+    color: #F1732D;
+}
+
+.link-footer{
+    color: #212529;
+    text-decoration: none;
+    transition: all 0.3s ease-in-out ;
+}
+.footer-link-1{
+   display: flex;
+   flex-direction: column;
+   gap: 3px;
+}

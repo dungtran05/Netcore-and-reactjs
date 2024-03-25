@@ -1,0 +1,10 @@
+.nav-drop {
+   transition: background-color 0.3s ease; /* Thêm hiệu ứng chuyển đổi màu nền */
+ }
+ 
+ .dropdown-item :hover {
+   background-color:red; /* Màu nền khi rê chuột qua */
+   color: #333; /* Màu chữ khi rê chuột qua */
+ }
+ 
+ 

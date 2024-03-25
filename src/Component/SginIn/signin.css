@@ -1,0 +1,14 @@
+.form-login{
+    padding-top: 25%;
+}
+.footer-form{
+    display: flex;
+    gap: 3px;
+}
+.signup-btn:hover{
+    color: yellow;
+}
+.signup-btn{
+    text-decoration: none;
+    color: #212529;
+}

@@ -1,0 +1,10 @@
+.icon-showpassword{
+   position: absolute;
+    cursor: pointer;
+    right: -50%;
+    bottom: 6px;
+}
+.form-password{
+    position: relative;
+    
+}

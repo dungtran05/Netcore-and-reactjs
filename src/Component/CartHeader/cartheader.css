@@ -1,0 +1,10 @@
+.img-header-cart{
+
+    height: 150px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EE4D2D;
+}

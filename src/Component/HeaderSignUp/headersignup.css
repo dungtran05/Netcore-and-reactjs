@@ -1,0 +1,20 @@
+.header-sign-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:  -30px;
+}
+.img-header-sign-up{
+    height: 150px;
+    
+}
+.text-left{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text-right{
+    color: #EE4D2D;
+}
