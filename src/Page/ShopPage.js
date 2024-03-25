@@ -40,7 +40,7 @@ function ShopPage() {
   return (
     <>  
         <Header></Header>
-        <div className="container">
+        <Container>
         <Row>
         <Col xs={3} >
             <FilterSidebar 
@@ -52,7 +52,7 @@ function ShopPage() {
           <Shop search={search} filters={filters} />
           </Col>
         </Row>
-        </div>
+        </Container>
         <Footer></Footer>
     </>
   )
