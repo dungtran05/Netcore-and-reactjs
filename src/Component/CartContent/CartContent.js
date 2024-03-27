@@ -22,7 +22,7 @@ function CartContent() {
         };
     
         fetchData();
-      }, []);
+      }, [user]);
       const handleClick =  async (cartId,userId)=>{
         
         try {
